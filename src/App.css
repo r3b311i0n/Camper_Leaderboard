@@ -3,7 +3,8 @@ main div {
     flex-flow: row;
     justify-content: center;
     align-content: center;
-    align-items: flex-start;
+    align-items: center;
+    flex-direction: column;
 }
 
 table {
