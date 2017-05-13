@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+Camper_Leaderboard.iml
+node_modules/
+dist/
