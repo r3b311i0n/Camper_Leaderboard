@@ -1,6 +1,6 @@
 {
   "name": "camper-leaderboard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Camper Leaderboard app for freeCodeCamp",
   "main": "index.tsx",
   "scripts": {
